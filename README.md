@@ -38,7 +38,7 @@ Data is cached using `localStorage`, reducing the need for frequent API calls.
 To run the project locally, use the following commands:
 
 ```bash
-git clone https://github.com/your-username/launch-app.git
+git clone https://github.com/sbolanowski/launch-app
 cd launch-app
 npm install
 npm start
