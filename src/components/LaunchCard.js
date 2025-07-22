@@ -182,7 +182,7 @@ const LaunchCard = ({ launch }) => {
             </div>
           </div>
 
-          <div className="column-der max-w-md px-3 py-0 text-small text-default-400 z-10">
+          <div className="column-der max-w-md px-3 py-0 text-small text-default-400 z-10 overflow-hidden">
             <Accordion className="max-w-md dark text-foreground bg-background">
               <AccordionItem
                 key="1"
